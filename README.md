@@ -3,6 +3,8 @@
 This repository contains a **Dockerfile** for a minimal installation of the
 [NGINX](http://nginx.org/en/) HTTP server.
 
+For more detail on how this works, visit [blog.mcskinner.com](http://blog.mcskinner.com/2016/04/17/behold-dockerfiles/).
+
 ### Base Docker Image
 
 * [ubuntu:14.04](https://hub.docker.com/_/ubuntu/)
