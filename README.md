@@ -1,4 +1,4 @@
-## nginx
+## mcskinner/nginx
 
 This repository contains a **Dockerfile** for a minimal installation of the
 [NGINX](http://nginx.org/en/) HTTP server.
